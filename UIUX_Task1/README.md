@@ -1,22 +1,27 @@
-# StudySphere - Signup Flow UI/UX
+# 📚 StudySphere - Signup Flow UI/UX
 
-## Project Overview
-StudySphere is a mobile learning application designed to provide a smooth and user-friendly signup experience.
+## 📖 Project Overview
+StudySphere is a modern mobile learning application designed to provide a smooth, intuitive, and user-friendly signup experience. This UI/UX project was created as part of the CodSoft UI/UX Design Internship, focusing on creating a clean, aesthetically pleasing, and interactive mobile interface.
 
-## Tools Used
+## 🛠️ Tools Used
 - Figma
 
-## Screens
-- Welcome
-- Create Account
-- Choose Your Interests
-- Success
+## 📱 Screens
+- Welcome Screen
+- Create Account Screen
+- Choose Your Interests Screen
+- Success Screen
 
-## Features
-- Modern UI
-- Purple theme
-- Interactive prototype
-- Mobile-friendly design
+## ✨ Features
+- Modern and minimal UI design
+- Premium purple color palette
+- Mobile-friendly layout
+- Interactive prototype with smooth navigation
+- Clean typography and consistent spacing
+- User-centered onboarding experience
 
-## Designed By
-Harshini Sri Dakoju
+## 🔗 Live Prototype
+https://www.figma.com/proto/IeLCsgKLP7dpuOVv61mvQW/CodSoft-Task-1---StudySphere-Signup-Flow?node-id=1-2&t=SbQBJCOqwYUIKKPa-1
+
+## 👩‍💻 Designed By
+**Harshini Sri Dakoju**
